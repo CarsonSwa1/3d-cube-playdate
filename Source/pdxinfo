@@ -1,0 +1,5 @@
+name=Cube Simulator
+author=Carson S.
+description=A small demo of the C API
+bundleID=cms11.itch.io.cube-simulator-for-playdate
+imagePath=
